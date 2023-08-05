@@ -42,7 +42,7 @@ Task:
    #  git branch
    #  git branch -D f2
    #  git checkout master
-   96  git branch -D f2
-   97  git branch
-   98  git push origin --delete f2
-   99  history
+   #  git branch -D f2
+   #  git branch
+   #  git push origin --delete f2
+   #  history
