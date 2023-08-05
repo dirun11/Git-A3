@@ -9,11 +9,6 @@ Task:
 --> Push all these branches to GitHub
 --> On local delete f2 branch, On local delete f2 branch
 
-
-   #  touch main.tx
-   #  ls
-   #  rm main.tx
-   #  ls
    #  touch main.txt
    #  ls
    #  git init
